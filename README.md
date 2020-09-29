@@ -1,2 +1,2 @@
 # python-course
-Este proyecto es para ir documentando mis avances mientras aprendo Python
+This project document my advances in learning Python programming
